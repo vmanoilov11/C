@@ -5,7 +5,7 @@ void sortDescending(int *a, int *b, int *c);
 int main() {
     int num1, num2, num3;
 
-    printf("Въведете първото число: ");
+    printf("Въведет първото число: ");
     scanf("%d", &num1);
     printf("Въведете второто число: ");
     scanf("%d", &num2);
