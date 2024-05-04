@@ -30,7 +30,7 @@ int main() {
     printf("Най-малкото число: %d\n", min);
     printf("Сумата на въведените числа: %d\n", sum);
     printf("Средноаритметичното на въведените числа: %.2f\n", average);
-    printf("Разликата между най-голямото и най-малкото число: %d\n", difference);
+    printf("Разликата e: %d\n", difference);
 
     return 0;
 }
