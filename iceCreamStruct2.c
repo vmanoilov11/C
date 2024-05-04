@@ -40,7 +40,7 @@ int main() {
             printf("Total price: %0.2lf", totalPrice);
 
     }else{
-        printf("No ice creams found with names starting with '%c'\n", letter);
+        printf("No ice starting with '%c'\n", letter);
         return 0;
         }
 
