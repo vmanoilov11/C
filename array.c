@@ -38,9 +38,9 @@ int main() {
     }
 
      if (rowsSort && colsSort) {
-        printf("The array is increasing in rows and columns.\n");
+        printf("The arr is increasing in rows and columns.\n");
     } else {
-        printf("The array is not in correct order.\n");
+        printf("The arr is not in correct order.\n");
     }
 
 
