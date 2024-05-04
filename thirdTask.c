@@ -19,25 +19,25 @@ int main() {
     int dayOfWeek = calculateDayOfWeek(day, month, year);
     switch (dayOfWeek) {
         case 0:
-            printf("Денят на седмицата е: Неделя\n");
+            printf("Денят от седмицата е: Неделя\n");
             break;
         case 1:
-            printf("Денят на седмицата е: Понеделник\n");
+            printf("Денят от седмицата е: Понеделник\n");
             break;
         case 2:
-            printf("Денят на седмицата е: Вторник\n");
+            printf("Денят от седмицата е: Вторник\n");
             break;
         case 3:
-            printf("Денят на седмицата е: Сряда\n");
+            printf("Денят от седмицата е: Сряда\n");
             break;
         case 4:
-            printf("Денят на седмицата е: Четвъртък\n");
+            printf("Денят от седмицата е: Четвъртък\n");
             break;
         case 5:
-            printf("Денят на седмицата е: Петък\n");
+            printf("Денят от седмицата е: Петък\n");
             break;
         case 6:
-            printf("Денят на седмицата е: Събота\n");
+            printf("Денят от седмицата е: Събота\n");
             break;
         default:
             printf("Грешка при изчисление на деня от седмицата!\n");
